@@ -11,5 +11,20 @@ ALU is the fundamental building block of the processor,  which is responsible fo
 
 ![WhatsApp Image 2023-08-27 at 20 50 50](https://github.com/BassantAhmedElbakry/ALU/assets/104600321/73fa44ee-1622-4763-bb8d-e413a59fa6a3)
 
+<li><br>Specifications: -<li/>
+<br>● All Outputs are registered. 
+<br>● All registers are cleared using Asynchronous active low reset
+<br>● Arith_flag is activated "High" only when ALU performs one of 
+the arithmetic operations (Addition, Subtraction, Multiplication, 
+division), otherwise "LOW"
+<br>● Logic_flag is activated "High" only when ALU performs one of 
+the Boolean operations (AND, OR, NAND, NOR), otherwise "LOW"
+<br>● CMP_flag is activated "High" only when ALU performs one of 
+the Comparison operations (Equal, Greater than, less than) or 
+NOP, otherwise "LOW"
+<br>● Shift_flag is activated "High" only when ALU performs one of 
+the shifting operations (shift right, shift left), otherwise "LOW"
+<br>● The ALU function is carried out according to the value of the 
+ALU_FUN input signal stated in the following table
 
 

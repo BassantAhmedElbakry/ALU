@@ -9,7 +9,7 @@ ALU is the fundamental building block of the processor,  which is responsible fo
 
 ![WhatsApp Image 2023-08-27 at 20 31 44](https://github.com/BassantAhmedElbakry/ALU/assets/104600321/5d5a7f02-5eff-455c-abf6-9afe3b916f0f)
 
-
+![WhatsApp Image 2023-08-27 at 20 50 50](https://github.com/BassantAhmedElbakry/ALU/assets/104600321/73fa44ee-1622-4763-bb8d-e413a59fa6a3)
 
 
 

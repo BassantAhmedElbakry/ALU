@@ -11,7 +11,7 @@ ALU is the fundamental building block of the processor,  which is responsible fo
 
 ![WhatsApp Image 2023-08-27 at 20 50 50](https://github.com/BassantAhmedElbakry/ALU/assets/104600321/73fa44ee-1622-4763-bb8d-e413a59fa6a3)
 
-<br>Specifications: -
+# Specifications: -
 <br>● All Outputs are registered. 
 <br>● All registers are cleared using Asynchronous active low reset
 <br>● Arith_flag is activated "High" only when ALU performs one of 

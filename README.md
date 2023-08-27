@@ -27,4 +27,8 @@ the shifting operations (shift right, shift left), otherwise "LOW"
 <br>● The ALU function is carried out according to the value of the 
 ALU_FUN input signal stated in the following table
 
+![WhatsApp Image 2023-08-27 at 20 58 53](https://github.com/BassantAhmedElbakry/ALU/assets/104600321/53932816-e2fb-43fb-8618-8346655c1b60)
+
+![WhatsApp Image 2023-08-27 at 21 00 44](https://github.com/BassantAhmedElbakry/ALU/assets/104600321/8d5eda56-938b-4017-9dec-34a60590bf0d)
+
 
